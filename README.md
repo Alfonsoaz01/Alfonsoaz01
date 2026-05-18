@@ -44,9 +44,7 @@ I ship things. Currently obsessed with agentic AI, voice interfaces, and making 
 - Voice-to-voice interfaces with Nova Sonic
 - Full-stack apps with Next.js + Supabase
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alfonsoaz01&theme=github-dark&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alfonsoaz01&color=blue&style=flat-square)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Partner+Solutions+Architect+%40+AWS;Building+with+AI+%26+Cloud)](https://git.io/typing-svg)
 
