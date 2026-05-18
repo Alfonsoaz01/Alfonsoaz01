@@ -44,9 +44,3 @@ I ship things. Currently obsessed with agentic AI, voice interfaces, and making 
 - Voice-to-voice interfaces with Nova Sonic
 - Full-stack apps with Next.js + Supabase
 
-## Stats
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alfonsoaz01&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoaz01&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-</p>
